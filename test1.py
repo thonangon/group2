@@ -6,5 +6,4 @@
 #     print(number,end="")
 
 
-number = "1234"
-print(number)
+
